@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mdmauer
+- 👀 I’m interested in Data Analytics, modeling, & blockchain technology
+- 💞️ I’m looking to collaborate on Haskell/Plutus smart contract development
+- 📫 You can reach me at michaelmauer@gmail.com
